@@ -1,0 +1,28 @@
+html{
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: cornflowerblue;
+    
+
+}
+.hey{
+    color: black;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+
+}
+#image{
+    border: 10px solid black;
+    width: 100%;
+    
+}
+#hi{
+    color: white;
+    text-decoration: underline;
+    
+}
